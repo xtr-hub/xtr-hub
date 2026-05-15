@@ -57,6 +57,14 @@ Since some dynamic stats services are unstable in some regions, here is a summar
   <img src="https://komarev.com/ghpvc/?username=xtr-hub&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
+## 🏆 GitHub Profile Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xtr-hub&theme=radical&no-frame=true&column=7&row=1&margin-w=20" />
+</p>
+
+---
+
 ---
 
 <p align="center">
