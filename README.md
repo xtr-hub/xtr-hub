@@ -1,10 +1,6 @@
-### Hi there 👋, I'm xtr-hub!
-
-**CS Student @ GDUT** | Open Source Enthusiast | Builder
-
-> _"Code more, learn forever."_
-
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=A+student+who+loves+open+source;Building+things+with+Java+%26+Rust;Exploring+the+world+of+AI+%26+Flutter" alt="Typing SVG" />
+</p>
 
 ## 🧑‍💻 About Me
 
