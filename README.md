@@ -39,11 +39,14 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xtr-hub&theme=github-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtr-hub&theme=github-dark&hide_border=true&layout=compact&langs_count=6&card_width=350" height="180" />
+
+<p align="left">
+  <img src="https://img.shields.io/github/stars/xtr-hub?style=for-the-badge&logo=github&label=Stars&color=gold" />
+  <img src="https://img.shields.io/github/forks/xtr-hub?style=for-the-badge&logo=github&label=Forks&color=blue" />
+  <img src="https://img.shields.io/github/commit-activity/y/xtr-hub?style=for-the-badge&logo=git&label=Commits(Y)&color=red" />
+  <img src="https://img.shields.io/github/languages/top/xtr-hub?style=for-the-badge&logo=github&label=TopLang&color=green" />
 </p>
 
 
