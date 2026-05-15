@@ -39,14 +39,11 @@
 
 ---
 
-## 📊 GitHub Stats 
+## 🔥 Contribution Graph
 
 
-<p align="left">
-  <img src="https://img.shields.io/github/stars/xtr-hub?style=for-the-badge&logo=github&label=Stars&color=gold" />
-  <img src="https://img.shields.io/github/forks/xtr-hub?style=for-the-badge&logo=github&label=Forks&color=blue" />
-  <img src="https://img.shields.io/github/commit-activity/y/xtr-hub?style=for-the-badge&logo=git&label=Commits(Y)&color=red" />
-  <img src="https://img.shields.io/github/languages/top/xtr-hub?style=for-the-badge&logo=github&label=TopLang&color=green" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xtr-hub&theme=github-dark&hide_border=true&custom_title=Contribution+Activity" />
 </p>
 
 
