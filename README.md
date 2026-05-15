@@ -41,13 +41,11 @@
 
 ## 📊 GitHub Stats
 
-Since some dynamic stats services are unstable in some regions, here is a summary:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=xtr-hub&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xtr-hub&layout=compact" />
+</p>
 
-| 🌟 Total Stars | 🍴 Forks | 📝 Commits (Last Year) |
-| :---: | :---: | :---: |
-| **17** | **50+** | **164+** |
-
-> _Data updated manually. Check my [Repositories](https://github.com/xtr-hub?tab=repositories) for latest activity._
 
 ---
 
@@ -56,6 +54,7 @@ Since some dynamic stats services are unstable in some regions, here is a summar
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=xtr-hub&style=flat-square&color=blue" alt="Profile Views" />
 </p>
+
 
 ## 🏆 GitHub Profile Trophies
 
