@@ -73,13 +73,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xtr-hub&theme=radical&no-frame=true&column=7&row=1&margin-w=20" />
-</p>
-
----
 
 ## 👀 Profile Views
 
