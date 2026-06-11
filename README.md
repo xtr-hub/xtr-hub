@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+xtr-hub+%F0%9F%91%8B;A+Computer+Science+Student;Building+with+Java+%26+Rust;Exploring+AI%2C+Flutter+%26+Cloud+Native" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi there, I'm xtr-hub 👋</h1>
 
 <p align="center">
   <em>A student who loves open source, backend development, and building useful tools.</em>
