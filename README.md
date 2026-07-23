@@ -14,12 +14,12 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech | Stars |
-| :-: | --- | :-: | :-: |
-| **[ClipBridge](https://github.com/xtr-hub/ClipBridge)** | 解决 Claude TUI 输入问题的剪贴板工具 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![Stars](https://img.shields.io/github/stars/xtr-hub/ClipBridge?style=flat-square&color=36BCF7) |
-| **[topview-video](https://github.com/xtr-hub/topview-video)** | 基于自制简易 MyBatis + SpringBoot 的视频管理后端 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) | ![Stars](https://img.shields.io/github/stars/xtr-hub/topview-video?style=flat-square&color=36BCF7) |
-| **[yolo-Image-recognition](https://github.com/xtr-hub/yolo-Image-recognition)** | 基于 YOLOv8 的物体检测 Web 服务 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Stars](https://img.shields.io/github/stars/xtr-hub/yolo-Image-recognition?style=flat-square&color=36BCF7) |
-| **[micro_word](https://github.com/xtr-hub/micro_word)** | 基于 Flutter 的跨平台单词软件 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | ![Stars](https://img.shields.io/github/stars/xtr-hub/micro_word?style=flat-square&color=36BCF7) |
+| Project | Description | Tech |
+| :-: | --- | :-: |
+| **[ClipBridge](https://github.com/xtr-hub/ClipBridge)** | 解决 Claude TUI 输入问题的剪贴板工具 | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **[topview-video](https://github.com/xtr-hub/topview-video)** | 基于自制简易 MyBatis + SpringBoot 的视频管理后端 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+| **[yolo-Image-recognition](https://github.com/xtr-hub/yolo-Image-recognition)** | 基于 YOLOv8 的物体检测 Web 服务 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **[micro_word](https://github.com/xtr-hub/micro_word)** | 基于 Flutter 的跨平台单词软件 | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) |
 
 ---
 
