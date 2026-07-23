@@ -1,86 +1,70 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+xtr-hub+%F0%9F%91%8B;A+Computer+Science+Student;Building+with+Java+%26+Rust;Exploring+AI%2C+Flutter+%26+Cloud+Native" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=xtr-hub&fontSize=50&fontColor=36BCF7&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%C2%B7%20Backend%20%26%20Systems%20%C2%B7%20Open%20Source&descAlignY=55&descSize=16" />
 </p>
-
 
 <p align="center">
-  <em>A student who loves open source, backend development, and building useful tools.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+%26+System+Tools+Developer;Building+with+Java+%2F+Rust+%2F+C%2B%2B+%2F+Dart;Exploring+AI+%C2%B7+Cloud+Native+%C2%B7+Open+Source" alt="Typing SVG" />
 </p>
-
----
-
-## 🧑‍💻 About Me
-
-- 🏫 Student at **Guangdong University of Technology**  
-- 🎓 Majoring in **Computer Science**
-- 💻 Passionate about **Backend Development**, **Open Source**, and **System Tools**
-- 🔭 Currently working on:
-  - **[topview-video](https://github.com/xtr-hub/topview-video)**  
-    A video management system built with **Spring Boot** and **Custom MyBatis**.
-  - **[SeaLantern](https://github.com/xtr-hub/SeaLantern)**  
-    A Minecraft server manager written in **Rust**.
-- 🌱 Currently learning:
-  - **Rust Ecosystem**
-  - **YOLO Object Detection**
-  - **Flutter Development**
-  - **Cloud Native: Docker / Kubernetes**
-- 📫 Contact me: `xtr-hub@qq.com`
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-| --- | --- | --- |
-| **[topview-video](https://github.com/xtr-hub/topview-video)** | Video management system | Spring Boot, MyBatis, MySQL, Redis |
-| **[SeaLantern](https://github.com/xtr-hub/SeaLantern)** | Minecraft server manager | Rust |
-
----
-
-## 🛠 Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-</p>
-
----
-
-## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xtr-hub&theme=github-dark&hide_border=true&custom_title=Contribution+Activity" />
+  <a href="mailto:xtr-hub@qq.com"><img src="https://img.shields.io/badge/Email-xtr--hub%40qq.com-36BCF7?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=xtr-hub&style=flat-square&color=36BCF7" alt="Profile Views" />
 </p>
 
 ---
 
+### 🧑‍💻 About Me
 
-## 👀 Profile Views
+- 🏫 CS student at **Guangdong University of Technology**
+- 💻 Focused on **Backend Development**, **System Tools** and **Open Source**
+- 🔭 Currently building: **[ClipBridge](https://github.com/xtr-hub/ClipBridge)** — a C++ clipboard tool that fixes Claude TUI input issues
+- 🌱 Learning: **Rust Ecosystem**, **Cloud Native (Docker / K8s)**, **YOLO Object Detection**
+- 📫 Reach me: `xtr-hub@qq.com`
+
+---
+
+### 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=xtr-hub&style=flat-square&color=blue" alt="Profile Views" />
+  <a href="https://github.com/xtr-hub/ClipBridge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xtr-hub&repo=ClipBridge&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/xtr-hub/topview-video">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xtr-hub&repo=topview-video&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/xtr-hub/yolo-Image-recognition">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xtr-hub&repo=yolo-Image-recognition&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/xtr-hub/micro_word">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xtr-hub&repo=micro_word&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis,rust,cpp,python,dart,flutter,docker,kubernetes,git,linux,idea&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xtr-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=xtr-hub&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xtr-hub&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Activity" />
 </p>
 
 ---
 
 <p align="center">
-  <em>Thanks for visiting my profile! 🚀</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
 </p>
