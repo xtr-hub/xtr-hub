@@ -5,8 +5,7 @@
 ### About
 
 - CS student at **Guangdong University of Technology**
-- I work on **backend systems**, **developer tools**, and **open source**
-- Right now I'm building **[ClipBridge](https://github.com/xtr-hub/ClipBridge)** — a C++ clipboard utility that fixes Claude TUI input issues
+- I work on **backend systems**, **developer tools**, and **open 
 - Learning **Rust** and cloud-native tools (**Docker / Kubernetes**)
 - `xtr-hub@qq.com`
 
