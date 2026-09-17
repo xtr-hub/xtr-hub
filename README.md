@@ -5,7 +5,7 @@
 ### About
 
 - CS student at **Guangdong University of Technology**
-- I work on **backend systems**, **developer tools**, and **open 
+- I work on **backend systems**, **developer tools**
 - Learning **Rust** and cloud-native tools (**Docker / Kubernetes**)
 - `xtr-hub@qq.com`
 
