@@ -13,12 +13,6 @@
 
 ### Philosophy
 
-> Build things that solve real problems.
->
-> Stay curious, keep learning, and never stop exploring.
->
-> Write code, break things, understand why, and make them better.
-
 I enjoy exploring how software works beneath the surface,
 from application architecture to operating systems.
 
